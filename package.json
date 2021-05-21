@@ -1,0 +1,19 @@
+{
+  "name": "agodev",
+  "version": "1.0.0",
+  "description": "odev",
+  "main": "server.js",
+  "scripts": {
+    "test": "agodevi"
+  },
+  "keywords": [
+    "ag"
+  ],
+  "author": "emre",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "socket.io": "^4.1.2"
+  }
+}
